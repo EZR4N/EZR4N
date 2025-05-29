@@ -1,4 +1,4 @@
-#💻 Frontend Developer | React | Next.js | TypeScript
+#  💻 Frontend Developer | React | Next.js | TypeScript
 
 Apasionado por crear interfaces limpias, accesibles y escalables. Estudiante de Ingeniería en Sistemas (UTN) y egresado top 1 de Coderhouse. Tengo experiencia real desarrollando un ecommerce completo con React, Firebase y más de 50 productos. Actualmente me estoy enfocando en perfeccionar Next.js y TypeScript.
 
